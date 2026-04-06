@@ -120,5 +120,5 @@ Configurable detection rules via external configuration
 Advanced detection algorithms
 Author
 
-[Your Name]
-Senior Computer Science Student
+Adam Arriola
+Computer Science Developer
