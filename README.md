@@ -18,42 +18,42 @@ This project was developed as a senior capstone to demonstrate real-world cybers
 ### Core Features (Must-Have Requirements)
 
 - **Log Ingestion**
-- Reads authentication log data from a file
-- Parses raw log entries into structured events
+    - Reads authentication log data from a file
+    - Parses raw log entries into structured events
 
 - **Event Normalization**
-- Converts all events into a consistent schema
-- Standard fields include timestamp, event type, username, IP address, and source
+    - Converts all events into a consistent schema
+    - Standard fields include timestamp, event type, username, IP address, and source
 
 - **Brute-Force Detection**
-- Detects multiple failed login attempts followed by a successful login
+    - Detects multiple failed login attempts followed by a successful login
 
 - **Human-Readable Alerts**
-- Generates clear, formatted alerts in the console
+    - Generates clear, formatted alerts in the console
 
 - **Modular Architecture**
-- Separates functionality into ingestion, normalization, correlation, and alerting modules
+    - Separates functionality into ingestion, normalization, correlation, and alerting modules
 
 - **End-to-End Pipeline**
-- Fully automated flow from log ingestion to alert generation
+    - Fully automated flow from log ingestion to alert generation
 
 ---
 
 ### Stretch Features
 - **Real Log File Processing**
-- Uses actual log files instead of hardcoded data
+    - Uses actual log files instead of hardcoded data
 
 - **Multiple Detection Rules**
-- Supports multiple independent threat detection strategies
+    - Supports multiple independent threat detection strategies
 
 - **Time-Based Detection**
-- Detects suspicious activity within a defined time window (e.g., multiple failures within 5 minutes)
+    - Detects suspicious activity within a defined time window (e.g., multiple failures within 5 minutes)
 
 - **Alert Persistence**
-- Saves alerts to a JSON file for later analysis
+    - Saves alerts to a JSON file for later analysis
 
 - **Automated Unit Tests**
-- Includes tests to validate detection logic
+    - Includes tests to validate detection logic
 
 ---
 
