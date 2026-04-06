@@ -97,7 +97,7 @@ security_log_correlation/
 
 3. **Correlation**
     - Applies detection rules:
-        - Brute-force detection**
+        - Brute-force detection
         - Excessive failed login detection (time-based)
 
 4. **Alerting**
@@ -166,6 +166,6 @@ OK
 - Configurable detection rules via external configuration
 - Advanced detection algorithms
 
-Author
-Adam Arriola
+**Author**<br>
+Adam Arriola<br>
 Computer Science Developer
