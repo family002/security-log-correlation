@@ -1,0 +1,32 @@
+[
+    {
+        "alert_type": "Brute Force Suspected",
+        "username": "jdoe",
+        "failures": 2,
+        "success_time": "2026-02-07T10:02:00+00:00"
+    },
+    {
+        "alert_type": "Excessive Failed Logins",
+        "username": "asmith",
+        "failure_count": 3,
+        "window_start": "2026-02-07T11:00:00+00:00"
+    },
+    {
+        "alert_type": "Brute Force Suspected",
+        "username": "jdoe",
+        "failures": 2,
+        "success_time": "2026-02-07T10:02:00+00:00"
+    },
+    {
+        "alert_type": "Brute Force Suspected",
+        "username": "jdoe",
+        "failures": 2,
+        "success_time": "2026-02-07T10:02:00+00:00"
+    },
+    {
+        "alert_type": "Excessive Failed Logins",
+        "username": "asmith",
+        "failure_count": 3,
+        "window_start": "2026-02-07T11:00:00+00:00"
+    }
+]

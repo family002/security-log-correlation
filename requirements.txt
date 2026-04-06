@@ -1,0 +1,14 @@
+# Must Have Requirements
+# Each requirement is functional and demonstrable by running the program.
+# 1. The system shall ingest authentication log data.
+# 2. The system shall normalize all ingested events into a consistent schema.
+# 3. The system shall detect brute-force login behavior.
+# 4. The system shall generate a human-readable alert for detected threats.
+# 5. The system shall use a modular architecture separating ingestion, normalization, correlation, and alerting.
+# 6. The system shall execute an end-to-end pipeline from ingestion to alert generation.
+
+# Stretch Requirements
+# 1.	The system shall support ingestion from a real log file.
+# 2.	The system shall support multiple threat detection rules.
+# 3.	The system shall persist alerts to a file.
+# 4.	The system shall include automated unit tests.
